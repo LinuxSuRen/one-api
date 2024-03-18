@@ -8,3 +8,5 @@ build
 logs
 data
 /web/node_modules
+/helm/one-api/one-api-0.1.0.tgz
+/helm/one-api/charts/*
